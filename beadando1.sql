@@ -5,7 +5,7 @@
 SET SERVEROUTPUT ON;
 
 -- =====================================================================
--- 1. DQL feladatok (HR séma)
+-- 1. DQL feladatok
 -- =====================================================================
 
 -- 1. Az összes dolgozó keresztneve, vezetékneve és e-mail címe az EMPLOYEES táblából!
